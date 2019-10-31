@@ -10,7 +10,7 @@ Bibliotecas:
 Modo de Execução via linha de comando
 
 Modelo:
-$ python nome_dp_arquivo.py  numero_de_quadros < arquivo_com_referencias.txt
+$ python nome_do_arquivo.py  numero_de_quadros < arquivo_com_referencias.txt
 
 Exemplo: 
 $ python simulador.py 1024 < vsim-gcc.txt
